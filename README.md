@@ -18,7 +18,8 @@ Este proyecto es una aplicación web para organizar y administrar tareas persona
 
 [Más información sobre gestión de proyectos](https://www.atlassian.com/es/software/jira)  
 
-![Uploading image.png…]()
+<img width="377" height="252" alt="image" src="https://github.com/user-attachments/assets/5e947abd-33dc-4609-b214-84971629bf8a" />
+
 
 
 ```python
